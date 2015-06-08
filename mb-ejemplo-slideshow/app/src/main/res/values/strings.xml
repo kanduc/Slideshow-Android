@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mb-ejemplo-slideshow</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombre_producto">Nombre producto</string>
+    <string name="txv_titulo">Slider</string>
+    <string name="ocurrio_error">Error</string>
+</resources>
